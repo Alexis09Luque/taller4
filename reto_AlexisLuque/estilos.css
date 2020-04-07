@@ -1,0 +1,133 @@
+
+/*@font-face {
+  font-family: 'Puten';
+  font-style: normal;
+  font-weight: 400;
+  src: url('archivo') format('woff2');
+ }
+*/
+h1{
+	
+	font-style: normalS;
+	font-weight: bolder;
+	font-size: 36px;
+	text-align:center;
+	letter-spacing: 3px; 
+	color:black;
+
+}
+h2{
+	font-size: 14px;
+}
+
+.cita{
+	text-align: center;
+	vertical-align: bottom;
+	color: white;
+	font-weight: 900;
+	font-size: 10px;
+}
+.foto{
+	width: 100%;
+	height: 90%;
+}
+.next{
+	width: 10%;
+	height: 8%
+	position: relative;
+    top: -15px; 
+    left: -5px;
+    
+}
+footer{
+	background: black;
+	height:150%;
+}
+.corazon{
+	width: 1.7%;
+	height: 1.7%;
+
+}
+img{
+	border: white 1.5px outset;
+}
+
+hr{
+	color: green;
+	size: 10px;
+	line-height: 20 px;
+}
+.col-lg-3{
+	height: 150%;
+}
+.orange{
+	border-top: orange 5px solid;
+}
+.ora{
+
+	color: orange;
+}
+.yellow{
+	border-top: yellow 5px solid;
+}
+.ye{
+
+	color: yellow;
+}
+.red{
+	border-top: #8F2866  5px solid;
+}
+.re{
+
+	color: #8F2866 ;
+}
+.marron{
+	border-top: #B48565 5px solid;
+}
+.ma{
+
+	color: #B48565;
+}
+p{
+	white-space: pre-line;
+}
+/*
+@media (min-width: 575.98px) { 
+	h1{
+		color:red; 
+	}
+
+}  
+
+@media (min-width: 767.98px) { 
+
+	h1{
+		color:aquamarine;
+	}
+
+ }
+
+ @media (min-width: 991.98px) { 
+ 	h1{
+
+ 		color: coral;
+ 	}
+ }
+
+ @media (min-width: 1200px) { 
+ 	h1{
+
+ 		color: darkred;
+ 	}
+ }
+
+
+
+#todo{
+	background: red;
+}
+
+#casi{
+	background: blue;
+}
+*/
